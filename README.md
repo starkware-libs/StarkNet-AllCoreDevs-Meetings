@@ -13,3 +13,7 @@ Protocol developers, client developers, and StarkNet researchers are encouraged 
 Currently, the meetings are managed by the StarkWare Ecosystem team. If you have feedback, or ideas for discussions, please reach out to [Liron Hayman](https://twitter.com/HaymanLiron), [Henri Lieutaud](https://twitter.com/HenriLieutaud) or [Louis Guthmann](https://twitter.com/guthl). 
 
 ### Previous Meetings
+
+| No  | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording                                                                          |
+| --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| 1   | February 10, 2022, 14:00 UTC          | [Agenda](Meeting\ #1.md) | [Twitter]()                                             | [Video](https://us02web.zoom.us/rec/share/UrXVrIBa-hzbb8ckFwmE5n54HnNH_GlaMli33fNFNrc717sFliBfxFD-5WLXzMQD.6BG5HeqO36XDWUSt) 
